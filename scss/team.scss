@@ -1,0 +1,202 @@
+$BackColor: #2B2B2B;
+$HeaderColor: #191919;
+$Font: 'Roboto', sans-serif;
+$FontColor: #EFEFEF;
+$Max-width:1920px;
+$Max-height:900px;
+$Min-width:320px;
+$Min-height:556px;
+
+body {
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: $BackColor ;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    min-width: $Min-width;
+    min-height: $Min-height;
+    max-width: $Max-width;
+    max-height: $Max-height; 
+}
+
+header {
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    height: 10em;
+    max-height: 15em;
+    
+    nav {
+        margin: 0 auto;
+        padding: 0;
+        width: 90%;
+        max-height: 5%;
+        text-align: right;
+    }
+
+    a {
+        font-family: $Font;
+        font-size: 120%;
+        text-decoration: none;
+        color: $FontColor;
+        margin-left: 2%;
+        font-weight: 200;
+    }
+    
+    .logo {
+        margin: 0  auto;
+        padding: 0;
+        width: 90%;
+    
+        .logo-pic {
+            margin: 0;
+            padding: 0;
+            width: 35%;
+            min-width: 300px;
+        }
+    }
+}
+
+section {
+    margin: 0 ;
+    padding: 0;
+    width: 80%;
+    height: 20em;
+    max-height: 50em;
+   
+    
+    
+    .table {
+    margin: 0 auto;
+    padding: 0;
+    width: 80%;
+    height: auto;
+    margin-top: 5%;
+   
+}
+
+.col-1 {
+            width: 8.33333333333%;
+
+        }
+
+        .col-2 {
+            width: 16.6666666667%;
+        }
+        .col-3 {
+            width:25%;
+        }
+        .col-4 {
+            width: 33.3333333333%;
+
+        }
+        .col-5 {
+            width: 41.6666666667%;
+        }
+        .col-6 {
+            width:50%;
+        }
+        .col-7 {
+            width: 58.3333333333%;
+        }
+        .col-8 {
+            width:66.6666666666%;
+        }
+        .col-9 {
+            width:75%;
+        }
+        .col-10 {
+            width: 83.3333333333%;
+        }
+        .col-11 {
+             width:91.6666666666%; 
+        }
+        .col-12 {
+             width: 100%;
+        }
+
+        [class*="col-"] {
+          float:left; 
+        }
+
+        [class*="col-"]:last-of-type {
+        }
+
+        .row:before
+            :after
+        {
+          clear: both;
+          content:"";
+        }
+
+    #pic {
+        text-align: center;
+    }
+    
+    #txt {
+        text-align: left;
+    }
+    .skull {
+        margin: 0 ;
+        padding: 0;
+        width: 50%;
+    
+
+    }
+    h1 {
+        font-family: $Font;
+        font-size: 150%;
+        color: $FontColor;
+    }
+    
+    h2 {
+            font-family: $Font;
+            font-size: 120%;
+            color: $FontColor;
+            
+        }
+    
+    p {
+        font-family: $Font;
+        font-size: 100%;
+        color: $FontColor;
+        text-align: justify;
+        
+    }
+}
+
+footer {
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    max-height: 5%;
+    margin-top: 3%;
+    
+    nav {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        max-height: 3em;
+        text-align: center;
+    }
+    
+    a {
+        font-family: $Font;
+        font-size: 90%;
+        font-weight: 200;
+        color: $FontColor;
+        text-decoration: none;
+        margin-left: 2%;
+    }
+}
+
+
+
+
