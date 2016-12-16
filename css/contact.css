@@ -1,4 +1,4 @@
-/* line 10, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/contact.scss */
+/* line 10, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
 body {
   margin: 0 auto;
   padding: 0;
@@ -7,7 +7,7 @@ body {
   background-color: #2B2B2B;
 }
 
-/* line 18, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/contact.scss */
+/* line 18, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
 .container {
   margin: 0 auto;
   padding: 0;
@@ -19,80 +19,158 @@ body {
   max-height: 900px;
 }
 
-/* line 29, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/contact.scss */
-header {
+/* line 29, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+.table {
   margin: 0 auto;
   padding: 0;
   width: 100%;
-  height: 10em;
-  max-height: 15em;
+  height: auto;
 }
 
-/* line 36, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/contact.scss */
-header nav {
+/* line 38, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+.col-1 {
+  width: 8.33333333333%;
+}
+
+/* line 43, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+.col-2 {
+  width: 16.6666666667%;
+}
+
+/* line 46, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+.col-3 {
+  width: 25%;
+}
+
+/* line 49, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+.col-4 {
+  width: 33.3333333333%;
+}
+
+/* line 53, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+.col-5 {
+  width: 41.6666666667%;
+}
+
+/* line 56, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+.col-6 {
+  width: 50%;
+}
+
+/* line 59, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+.col-7 {
+  width: 58.3333333333%;
+}
+
+/* line 62, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+.col-8 {
+  width: 66.6666666666%;
+}
+
+/* line 65, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+.col-9 {
+  width: 75%;
+}
+
+/* line 68, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+.col-10 {
+  width: 83.3333333333%;
+}
+
+/* line 71, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+.col-11 {
+  width: 91.6666666666%;
+}
+
+/* line 74, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+.col-12 {
+  width: 100%;
+}
+
+/* line 78, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+[class*="col-"] {
+  float: left;
+}
+
+/* line 85, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+.row:before
+:after {
+  clear: both;
+  content: "";
+}
+
+/* line 92, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+nav {
   margin: 0 auto;
   padding: 0;
   width: 90%;
-  max-height: 5%;
   text-align: right;
 }
 
-/* line 44, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/contact.scss */
-header a {
+/* line 98, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+nav a {
   font-family: "Roboto", sans-serif;
-  font-size: 120%;
+  font-size: 100%;
   text-decoration: none;
   color: #EFEFEF;
   margin-left: 2%;
 }
 
-/* line 52, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/contact.scss */
-header .logo {
-  margin: 0  auto;
+/* line 107, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+#logo-box {
+  margin: 0 auto;
   padding: 0;
-  width: 90%;
+  position: relative;
+  top: 25%;
+  left: 5%;
 }
 
-/* line 57, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/contact.scss */
-header .logo .logo-pic {
-  margin: 0;
-  padding: 0;
-  width: 35%;
-  min-width: 300px;
-}
-
-/* line 66, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/contact.scss */
-section {
+/* line 115, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+#logo-box .logo {
   margin: 0;
   padding: 0;
   width: 100%;
-  max-height: 50em;
-  text-align: center;
 }
 
-/* line 73, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/contact.scss */
-section .text {
+/* line 122, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+#img {
   margin: 0 auto;
   padding: 0;
-  width: 40%;
-  min-width: 300px;
-  text-align: center;
+  position: relative;
+  bottom: 0;
+  padding-top: 15%;
+  right: 1%;
 }
 
-/* line 81, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/contact.scss */
-section h1 {
+/* line 131, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+#img .image {
+  margin: 0;
+  padding: 0;
+  width: 60%;
+}
+
+/* line 138, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+#txt {
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+  bottom: 0;
+  right: 5%;
+  padding-top: 15%;
+}
+
+/* line 146, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+#txt h1 {
   font-family: "Roboto", sans-serif;
   font-size: 150%;
   color: #EFEFEF;
 }
 
-/* line 88, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/contact.scss */
-section p {
+/* line 152, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+#txt p {
   font-family: "Roboto", sans-serif;
-  font-size: 100%;
+  font-size: 120%;
   color: #EFEFEF;
-  text-align: justify;
-  text-align-last: center;
 }
 
 /*# sourceMappingURL=../css/contact.map */

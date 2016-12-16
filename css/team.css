@@ -1,4 +1,4 @@
-/* line 10, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 10, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 body {
   margin: 0 auto;
   padding: 0;
@@ -7,7 +7,7 @@ body {
   background-color: #2B2B2B;
 }
 
-/* line 18, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 18, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 .container {
   margin: 0 auto;
   padding: 0;
@@ -19,7 +19,7 @@ body {
   max-height: 900px;
 }
 
-/* line 29, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 29, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 header {
   margin: 0 auto;
   padding: 0;
@@ -28,7 +28,7 @@ header {
   max-height: 15em;
 }
 
-/* line 36, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 36, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 header nav {
   margin: 0 auto;
   padding: 0;
@@ -37,7 +37,7 @@ header nav {
   text-align: right;
 }
 
-/* line 44, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 44, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 header a {
   font-family: "Roboto", sans-serif;
   font-size: 120%;
@@ -47,14 +47,14 @@ header a {
   font-weight: 200;
 }
 
-/* line 53, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 53, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 header .logo {
   margin: 0  auto;
   padding: 0;
   width: 90%;
 }
 
-/* line 58, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 58, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 header .logo .logo-pic {
   margin: 0;
   padding: 0;
@@ -62,7 +62,7 @@ header .logo .logo-pic {
   min-width: 300px;
 }
 
-/* line 67, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 67, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section {
   margin: 0;
   padding: 0;
@@ -71,7 +71,7 @@ section {
   max-height: 50em;
 }
 
-/* line 76, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 76, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section .table {
   margin: 0 auto;
   padding: 0;
@@ -80,110 +80,110 @@ section .table {
   margin-top: 5%;
 }
 
-/* line 85, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 85, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section .col-1 {
   width: 8.33333333333%;
 }
 
-/* line 90, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 90, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section .col-2 {
   width: 16.6666666667%;
 }
 
-/* line 93, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 93, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section .col-3 {
   width: 25%;
 }
 
-/* line 96, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 96, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section .col-4 {
   width: 33.3333333333%;
 }
 
-/* line 100, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 100, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section .col-5 {
   width: 41.6666666667%;
 }
 
-/* line 103, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 103, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section .col-6 {
   width: 50%;
 }
 
-/* line 106, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 106, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section .col-7 {
   width: 58.3333333333%;
 }
 
-/* line 109, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 109, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section .col-8 {
   width: 66.6666666666%;
 }
 
-/* line 112, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 112, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section .col-9 {
   width: 75%;
 }
 
-/* line 115, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 115, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section .col-10 {
   width: 83.3333333333%;
 }
 
-/* line 118, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 118, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section .col-11 {
   width: 91.6666666666%;
 }
 
-/* line 121, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 121, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section .col-12 {
   width: 100%;
 }
 
-/* line 125, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 125, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section [class*="col-"] {
   float: left;
 }
 
-/* line 132, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 132, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section .row:before
 :after {
   clear: both;
   content: "";
 }
 
-/* line 139, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 139, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section #pic {
   text-align: center;
 }
 
-/* line 143, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 143, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section #txt {
   text-align: left;
 }
 
-/* line 146, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 146, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section .skull {
   margin: 0;
   padding: 0;
   width: 50%;
 }
 
-/* line 153, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 153, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section h1 {
   font-family: "Roboto", sans-serif;
   font-size: 150%;
   color: #EFEFEF;
 }
 
-/* line 159, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 159, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section h2 {
   font-family: "Roboto", sans-serif;
   font-size: 120%;
   color: #EFEFEF;
 }
 
-/* line 166, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 166, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 section p {
   font-family: "Roboto", sans-serif;
   font-size: 100%;
@@ -191,7 +191,7 @@ section p {
   text-align: justify;
 }
 
-/* line 175, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 175, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 footer {
   margin: 0 auto;
   padding: 0;
@@ -200,7 +200,7 @@ footer {
   margin-top: 3%;
 }
 
-/* line 182, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 182, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 footer nav {
   margin: 0;
   padding: 0;
@@ -209,7 +209,7 @@ footer nav {
   text-align: center;
 }
 
-/* line 190, C:/Users/George Houghton/Desktop/BrownBearDesigns-Website/scss/team.scss */
+/* line 190, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/team.scss */
 footer a {
   font-family: "Roboto", sans-serif;
   font-size: 90%;
