@@ -119,29 +119,15 @@ nav {
     }
 }
 
-#img {
-    margin: 0 auto;
-    padding: 0;
-    position: relative;
-    bottom: 0;
-    padding-top: 15%;
-    right: 1%;
-    
-    
-    .image {
-        margin: 0;
-        padding: 0;
-        width: 60%;
-    }
-}
-
 #txt {
     margin: 0 auto;
     padding: 0;
     position: relative;
     bottom: 0;
-    right: 5%;
+    left: 5%;
     padding-top: 15%;
+    text-align: center;
+    
     
     h1 {
         font-family: $Font;
