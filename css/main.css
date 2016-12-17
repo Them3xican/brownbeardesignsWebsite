@@ -1,4 +1,4 @@
-/* line 10, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 10, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 body {
   margin: 0 auto;
   padding: 0;
@@ -8,7 +8,7 @@ body {
   text-align: center;
 }
 
-/* line 19, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 19, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 .container {
   margin: 0 auto;
   padding: 0;
@@ -21,7 +21,7 @@ body {
   text-align: center;
 }
 
-/* line 32, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 32, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 .table {
   margin: 0 auto;
   padding: 0;
@@ -29,79 +29,79 @@ body {
   height: auto;
 }
 
-/* line 40, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 40, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 .col-1 {
   width: 8.33333333333%;
 }
 
-/* line 45, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 45, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 .col-2 {
   width: 16.6666666667%;
 }
 
-/* line 48, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 48, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 .col-3 {
   width: 25%;
 }
 
-/* line 51, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 51, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 .col-4 {
   width: 33.3333333333%;
 }
 
-/* line 55, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 55, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 .col-5 {
   width: 41.6666666667%;
 }
 
-/* line 58, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 58, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 .col-6 {
   width: 50%;
 }
 
-/* line 61, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 61, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 .col-7 {
   width: 58.3333333333%;
 }
 
-/* line 64, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 64, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 .col-8 {
   width: 66.6666666666%;
 }
 
-/* line 67, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 67, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 .col-9 {
   width: 75%;
 }
 
-/* line 70, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 70, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 .col-10 {
   width: 83.3333333333%;
 }
 
-/* line 73, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 73, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 .col-11 {
   width: 91.6666666666%;
 }
 
-/* line 76, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 76, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 .col-12 {
   width: 100%;
 }
 
-/* line 80, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 80, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 [class*="col-"] {
   float: left;
 }
 
-/* line 87, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 87, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 .row:before
 :after {
   clear: both;
   content: "";
 }
 
-/* line 94, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 94, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 nav {
   margin: 0 auto;
   padding: 0;
@@ -109,7 +109,7 @@ nav {
   text-align: right;
 }
 
-/* line 100, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 100, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 nav a {
   font-family: "Roboto", sans-serif;
   font-size: 100%;
@@ -118,7 +118,7 @@ nav a {
   margin-left: 2%;
 }
 
-/* line 109, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 109, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 #logo-box {
   margin: 0 auto;
   padding: 0;
@@ -127,7 +127,7 @@ nav a {
   left: 25%;
 }
 
-/* line 117, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 117, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 #logo-box .logo {
   margin: 0;
   padding: 0;
@@ -135,7 +135,7 @@ nav a {
   padding-top: 30%;
 }
 
-/* line 124, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 124, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 #logo-box .scroll {
   margin: 0;
   padding: 0;
@@ -144,7 +144,7 @@ nav a {
   padding-bottom: 10%;
 }
 
-/* line 133, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 133, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 #pic-table {
   margin: 0 auto;
   padding: 0;
@@ -153,7 +153,7 @@ nav a {
   margin-bottom: 5%;
 }
 
-/* line 140, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 140, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 #pic-table .pic {
   margin: 0;
   padding: 0;
