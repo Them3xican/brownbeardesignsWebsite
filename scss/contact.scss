@@ -119,7 +119,7 @@ nav {
     }
 }
 
-#txt {
+#links {
     margin: 0 auto;
     padding: 0;
     position: relative;
@@ -128,16 +128,9 @@ nav {
     padding-top: 15%;
     text-align: center;
     
-    
-    h1 {
-        font-family: $Font;
-        font-size: 150%;
-        color: $FontColor;
-    }
-    
-    p {
-        font-family: $Font;
-        font-size: 120%;
-        color: $FontColor;
+    .media-links {
+        margin: 0 auto;
+        padding: 0;
+        width: 50%;
     }
 }

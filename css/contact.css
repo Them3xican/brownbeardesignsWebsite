@@ -133,7 +133,7 @@ nav a {
 }
 
 /* line 122, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
-#txt {
+#links {
   margin: 0 auto;
   padding: 0;
   position: relative;
@@ -143,18 +143,11 @@ nav a {
   text-align: center;
 }
 
-/* line 132, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
-#txt h1 {
-  font-family: "Roboto", sans-serif;
-  font-size: 150%;
-  color: #EFEFEF;
-}
-
-/* line 138, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
-#txt p {
-  font-family: "Roboto", sans-serif;
-  font-size: 120%;
-  color: #EFEFEF;
+/* line 131, C:/Users/George Houghton/Desktop/brownbeardesignsWebsite/scss/contact.scss */
+#links .media-links {
+  margin: 0 auto;
+  padding: 0;
+  width: 50%;
 }
 
 /*# sourceMappingURL=../css/contact.map */
