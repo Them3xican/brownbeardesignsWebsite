@@ -110,7 +110,7 @@ nav {
 /* line 98, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/contact.scss */
 nav a {
   font-family: "Roboto", sans-serif;
-  font-size: 100%;
+  font-size: 120%;
   text-decoration: none;
   color: #EFEFEF;
   margin-left: 2%;
@@ -147,7 +147,7 @@ nav a {
 #links .media-links {
   margin: 0 auto;
   padding: 0;
-  width: 10%;
+  width: 5%;
   margin-left: 5%;
 }
 
