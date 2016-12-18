@@ -127,16 +127,9 @@ body {
 }
 
 /* line 113, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/index.scss */
-.container #logo-holder h1 {
-  font-family: "Roboto", sans-serif;
-  font-size: 90%;
-  color: #EFEFEF;
-}
-
-/* line 118, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/index.scss */
 .container #logo-holder a {
   font-family: "Roboto", sans-serif;
-  font-size: 80%;
+  font-size: 150%;
   text-decoration: none;
   color: #EFEFEF;
 }
