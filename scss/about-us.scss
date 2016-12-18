@@ -135,24 +135,28 @@ nav {
     
     p{
         font-family: $Font;
-        font-size: 100%;
+        font-size: 130%;
         color: $FontColor;
         text-align: justify;
         
     }
 }
 
-#info {
-     margin: 0 auto;
+#links {
+    margin: 0 auto;
     padding: 0;
     position: relative;
-    padding-top: 5%;
     bottom: 0;
+    left: 35%;
+    padding-top: 10%;
+    text-align: center;
     
-    nav {
+    
+    .media-links {
         margin: 0 auto;
         padding: 0;
-        width: 100%;
-        text-align: center;
+        width:2%;
+        margin-left: 2%;
+        
     }
 }

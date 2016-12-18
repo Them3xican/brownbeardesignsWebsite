@@ -153,26 +153,28 @@ nav a {
 /* line 136, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/about-us.scss */
 #text p {
   font-family: "Roboto", sans-serif;
-  font-size: 100%;
+  font-size: 130%;
   color: #EFEFEF;
   text-align: justify;
 }
 
 /* line 145, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/about-us.scss */
-#info {
+#links {
   margin: 0 auto;
   padding: 0;
   position: relative;
-  padding-top: 5%;
   bottom: 0;
+  left: 35%;
+  padding-top: 10%;
+  text-align: center;
 }
 
-/* line 152, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/about-us.scss */
-#info nav {
+/* line 155, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/about-us.scss */
+#links .media-links {
   margin: 0 auto;
   padding: 0;
-  width: 100%;
-  text-align: center;
+  width: 2%;
+  margin-left: 2%;
 }
 
 /*# sourceMappingURL=../css/about-us.map */

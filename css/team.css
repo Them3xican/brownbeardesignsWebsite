@@ -173,4 +173,23 @@ nav a {
   color: #EFEFEF;
 }
 
+/* line 159, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/team.scss */
+#links {
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+  bottom: 0;
+  left: 35%;
+  padding-top: 15%;
+  text-align: center;
+}
+
+/* line 169, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/team.scss */
+#links .media-links {
+  margin: 0 auto;
+  padding: 0;
+  width: 2%;
+  margin-left: 2%;
+}
+
 /*# sourceMappingURL=../css/team.map */
