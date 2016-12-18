@@ -125,13 +125,14 @@ nav {
     position: relative;
     bottom: 0;
     padding-top: 15%;
-    right: 1%;
+    right: 10%;
+    text-align: right;
     
     
     .image {
         margin: 0;
         padding: 0;
-        width: 60%;
+        width: 40%;
     }
 }
 
@@ -149,6 +150,12 @@ nav {
         color: $FontColor;
     }
     
+    h2{
+        font-family: $Font;
+        font-size: 130%;
+        color: $FontColor;
+    }
+    
     p {
         font-family: $Font;
         font-size: 120%;
@@ -162,7 +169,7 @@ nav {
     position: relative;
     bottom: 0;
     left: 35%;
-    padding-top: 15%;
+    padding-top: 10%;
     text-align: center;
     
     
