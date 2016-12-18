@@ -149,11 +149,12 @@ nav a {
   margin: 0 auto;
   padding: 0;
   width: 90%;
+  min-width: 300px;
   height: auto;
   margin-bottom: 5%;
 }
 
-/* line 140, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 141, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 #pic-table .pic {
   margin: 0;
   padding: 0;
