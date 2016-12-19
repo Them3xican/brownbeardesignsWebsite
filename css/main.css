@@ -107,23 +107,6 @@ body {
 }
 
 /* line 98, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
-nav {
-  margin: 0 auto;
-  padding: 0;
-  width: 90%;
-  text-align: right;
-}
-
-/* line 104, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
-nav a {
-  font-family: "Roboto", sans-serif;
-  font-size: 100%;
-  text-decoration: none;
-  color: #EFEFEF;
-  margin-left: 2%;
-}
-
-/* line 113, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 #logo-box {
   margin: 0 auto;
   padding: 0;
@@ -132,7 +115,7 @@ nav a {
   left: 25%;
 }
 
-/* line 121, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 106, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 #logo-box .logo {
   margin: 0;
   padding: 0;
@@ -140,7 +123,7 @@ nav a {
   padding-top: 30%;
 }
 
-/* line 128, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 113, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 #logo-box .scroll {
   margin: 0;
   padding: 0;
@@ -149,7 +132,7 @@ nav a {
   padding-bottom: 10%;
 }
 
-/* line 137, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 122, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 #pic-table {
   margin: 0 auto;
   padding: 0;
@@ -159,7 +142,7 @@ nav a {
   margin-bottom: 5%;
 }
 
-/* line 145, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
+/* line 130, C:/Users/georg/Desktop/brownbeardesignsWebsite/scss/main.scss */
 #pic-table .pic {
   margin: 0;
   padding: 0;
